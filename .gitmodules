@@ -1,0 +1,3 @@
+[submodule "submodules/Little-CMS"]
+	path = submodules/Little-CMS
+	url = https://github.com/gertvanhoey/Little-CMS.git
